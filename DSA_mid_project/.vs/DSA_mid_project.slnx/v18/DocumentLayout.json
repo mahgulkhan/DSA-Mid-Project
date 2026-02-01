@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|d:\\uni\\3rd sem\\dsa lab\\mid project\\dsa_mid_project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\launchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\launchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\launchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\launchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\postscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\postscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\postsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\postsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\postqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\postqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\browsinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\browsinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\freinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\freinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\freinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\freinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\navigationstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\navigationstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\dl\\commentqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:dl\\commentqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\friends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\friends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\formdatabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\formdatabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\bl\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:bl\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\ui\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:ui\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901D00C2-7091-45CF-9D44-EFBCBF4632C9}|DSA_mid_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\UserList.cs",
+              "RelativeDocumentMoniker": "DL\\UserList.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\UserList.cs",
+              "RelativeToolTip": "DL\\UserList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:02:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaunchPage.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\LaunchPage.cs",
+              "RelativeDocumentMoniker": "UI\\LaunchPage.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\LaunchPage.cs",
+              "RelativeToolTip": "UI\\LaunchPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:57:28.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:12:44.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Login.cs",
+              "RelativeToolTip": "UI\\Login.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAHEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:30:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BL\\SessionManager.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\SessionManager.cs",
+              "RelativeToolTip": "BL\\SessionManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:17:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCrud.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\UserCrud.cs",
+              "RelativeDocumentMoniker": "DL\\UserCrud.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\UserCrud.cs",
+              "RelativeToolTip": "DL\\UserCrud.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:02:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Signup.cs",
+              "RelativeDocumentMoniker": "UI\\Signup.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Signup.cs [Design]",
+              "RelativeToolTip": "UI\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:33:59.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Signup.cs",
+              "RelativeDocumentMoniker": "UI\\Signup.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Signup.cs",
+              "RelativeToolTip": "UI\\Signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:47:16.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Users.cs",
+              "RelativeDocumentMoniker": "BL\\Users.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Users.cs",
+              "RelativeToolTip": "BL\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:00:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\Dashboard.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.cs",
+              "RelativeToolTip": "UI\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:31:40.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LaunchPage.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\LaunchPage.cs",
+              "RelativeDocumentMoniker": "UI\\LaunchPage.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\LaunchPage.cs [Design]",
+              "RelativeToolTip": "UI\\LaunchPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:11:58.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostsCrud.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\PostsCrud.cs",
+              "RelativeDocumentMoniker": "DL\\PostsCrud.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\PostsCrud.cs",
+              "RelativeToolTip": "DL\\PostsCrud.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAUwDABAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:24:42.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\PostsForm.cs",
+              "RelativeDocumentMoniker": "UI\\PostsForm.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\PostsForm.cs [Design]",
+              "RelativeToolTip": "UI\\PostsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:58:53.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Profile.cs",
+              "RelativeDocumentMoniker": "UI\\Profile.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Profile.cs [Design]",
+              "RelativeToolTip": "UI\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:55:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DL\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\DatabaseHelper.cs",
+              "RelativeToolTip": "DL\\DatabaseHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:00:40.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPass.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "UI\\ForgotPass.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\ForgotPass.cs",
+              "RelativeToolTip": "UI\\ForgotPass.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:28:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPass.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "UI\\ForgotPass.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\ForgotPass.cs [Design]",
+              "RelativeToolTip": "UI\\ForgotPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:02:40.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WelcomePage.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "UI\\WelcomePage.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\WelcomePage.cs [Design]",
+              "RelativeToolTip": "UI\\WelcomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:21:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WelcomePage.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "UI\\WelcomePage.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\WelcomePage.cs",
+              "RelativeToolTip": "UI\\WelcomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:47:34.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrowsingHistory.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\BrowsingHistory.cs",
+              "RelativeDocumentMoniker": "BL\\BrowsingHistory.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\BrowsingHistory.cs",
+              "RelativeToolTip": "BL\\BrowsingHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:16:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostQueue.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\PostQueue.cs",
+              "RelativeDocumentMoniker": "DL\\PostQueue.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\PostQueue.cs",
+              "RelativeToolTip": "DL\\PostQueue.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:16:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Search.cs",
+              "RelativeDocumentMoniker": "UI\\Search.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Search.cs",
+              "RelativeToolTip": "UI\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:42:40.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Search.cs",
+              "RelativeDocumentMoniker": "UI\\Search.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Search.cs [Design]",
+              "RelativeToolTip": "UI\\Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:25:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Profile.cs",
+              "RelativeDocumentMoniker": "UI\\Profile.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Profile.cs",
+              "RelativeToolTip": "UI\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:56:09.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Freinds.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Freinds.cs",
+              "RelativeDocumentMoniker": "UI\\Freinds.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Freinds.cs [Design]",
+              "RelativeToolTip": "UI\\Freinds.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:34:46.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Freinds.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Freinds.cs",
+              "RelativeDocumentMoniker": "UI\\Freinds.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Freinds.cs",
+              "RelativeToolTip": "UI\\Freinds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:34:51.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\Dashboard.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "UI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:41:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NavigationStack.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\NavigationStack.cs",
+              "RelativeDocumentMoniker": "DL\\NavigationStack.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\NavigationStack.cs",
+              "RelativeToolTip": "DL\\NavigationStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:46:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommentQueue.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\CommentQueue.cs",
+              "RelativeDocumentMoniker": "DL\\CommentQueue.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\DL\\CommentQueue.cs",
+              "RelativeToolTip": "DL\\CommentQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:00:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Posts.cs",
+              "RelativeDocumentMoniker": "BL\\Posts.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Posts.cs",
+              "RelativeToolTip": "BL\\Posts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:34:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Likes.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Likes.cs",
+              "RelativeDocumentMoniker": "BL\\Likes.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Likes.cs",
+              "RelativeToolTip": "BL\\Likes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:59:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Friends.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Friends.cs",
+              "RelativeDocumentMoniker": "BL\\Friends.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Friends.cs",
+              "RelativeToolTip": "BL\\Friends.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:59:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormDataBL.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\FormDataBL.cs",
+              "RelativeDocumentMoniker": "BL\\FormDataBL.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\FormDataBL.cs",
+              "RelativeToolTip": "BL\\FormDataBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:33:02.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Comments.cs",
+              "RelativeDocumentMoniker": "BL\\Comments.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\BL\\Comments.cs",
+              "RelativeToolTip": "BL\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:59:23.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\UI\\Dashboard.Designer.cs",
+              "RelativeToolTip": "UI\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAjwAcBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:52:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Uni\\3rd sem\\DSA Lab\\mid project\\DSA_mid_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:10:17.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
