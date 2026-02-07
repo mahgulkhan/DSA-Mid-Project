@@ -14,7 +14,7 @@ namespace DSA_mid_project
     public class UserCrud 
     {
         private UserList userList = new UserList();
-        private FriendsList friendsList = new FriendsList();
+        public FriendsList friendsList = new FriendsList();
 
         bool isDataLoaded = false;
 

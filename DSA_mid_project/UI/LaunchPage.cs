@@ -23,6 +23,7 @@ namespace DSA_mid_project
             userCrud = new UserCrud();
             postsCrud = new PostsCrud();
             browsingHistory = new BrowsingHistory();
+            this.DoubleBuffered = true;
         }
 
         private void button1_Click(object sender, EventArgs e)

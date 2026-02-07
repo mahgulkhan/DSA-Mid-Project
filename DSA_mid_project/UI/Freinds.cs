@@ -7,25 +7,103 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace DSA_mid_project.UI
 {
     public partial class Freinds : Form
     {
+        private FlowLayoutPanel friendsFlowPanel;
+
         public Freinds()
         {
             InitializeComponent();
-            dataGridView3.DataSource = LaunchPage.userCrud.GetFriendsList(); 
-            dataGridView3.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            LoadFriendsInPanels();
         }
 
-        private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void LoadFriendsInPanels()
         {
-            
+            friendsFlowPanel = new FlowLayoutPanel
+            {
+                Location = new Point(320, 120),
+                Size = new Size(800, 600),
+                AutoScroll = true,
+                FlowDirection = FlowDirection.TopDown,
+                WrapContents = false,
+                BackColor = Color.FromArgb(64, 64, 64),
+                BorderStyle = BorderStyle.None,
+                Padding = new Padding(10)
+            };
+
+            this.Controls.Add(friendsFlowPanel);
+
+            DataTable friends = LaunchPage.userCrud.GetFriendsList();
+            foreach (DataRow row in friends.Rows)
+            {
+                CreateFriendPanel(row);
+            }
         }
 
-        
+        private void CreateFriendPanel(DataRow friend)
+        {
+            string username = friend["Username"].ToString();
+            DateTime friendSince = Convert.ToDateTime(friend["created_at"]);
+
+            Panel friendPanel = new Panel
+            {
+                Size = new Size(760, 80),
+                BackColor = Color.FromArgb(24, 24, 24),
+                BorderStyle = BorderStyle.FixedSingle,
+                Margin = new Padding(0, 0, 0, 10),
+                Tag = username
+            };
+
+            friendPanel.Paint += (sender, e) =>
+            {
+                ControlPaint.DrawBorder(e.Graphics, friendPanel.ClientRectangle,
+                    Color.FromArgb(119, 110, 101), 1, ButtonBorderStyle.Solid,
+                    Color.FromArgb(119, 110, 101), 1, ButtonBorderStyle.Solid,
+                    Color.FromArgb(119, 110, 101), 1, ButtonBorderStyle.Solid,
+                    Color.FromArgb(119, 110, 101), 1, ButtonBorderStyle.Solid);
+            };
+
+            Label avatar = new Label
+            {
+                Location = new Point(10, 20),
+                Size = new Size(40, 40),
+                BackColor = Color.FromArgb(156, 136, 115),
+                Text = username.Length > 0 ? username.Substring(0, 1).ToUpper() : "F",
+                TextAlign = ContentAlignment.MiddleCenter,
+                Font = new Font("Segoe UI", 14, FontStyle.Bold),
+                ForeColor = Color.White
+            };
+
+            Label nameLabel = new Label
+            {
+                Location = new Point(60, 25),
+                Size = new Size(300, 30),
+                Text = username,
+                Font = new Font("Segoe UI", 12, FontStyle.Bold),
+                ForeColor = Color.White,
+                BackColor = Color.Transparent
+            };
+
+            Label dateLabel = new Label
+            {
+                Location = new Point(400, 25),
+                Size = new Size(300, 30),
+                Text = $"Friends since: {friendSince.ToString("MMM dd, yyyy")}",
+                Font = new Font("Segoe UI", 10),
+                ForeColor = Color.FromArgb(136, 153, 166),
+                BackColor = Color.Transparent
+            };
+
+            friendPanel.Controls.Add(avatar);
+            friendPanel.Controls.Add(nameLabel);
+            friendPanel.Controls.Add(dateLabel);
+
+            friendsFlowPanel.Controls.Add(friendPanel);
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -45,37 +123,7 @@ namespace DSA_mid_project.UI
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            string friendUsername = textBox1.Text;
-
-            if (string.IsNullOrEmpty(friendUsername))
-            {
-                MessageBox.Show("Please enter a username.");
-                return;
-            }
-
-            Users user = LaunchPage.userCrud.FindProfile(friendUsername);
-            if (user != null)
-            {
-                DataTable dt = new DataTable();
-                dt.Columns.Add("Username", typeof(string));
-                dt.Rows.Add(user.Username);
-
-                dataGridView1.DataSource = dt;
-            }
-            else
-            {
-                dataGridView1.DataSource = null;
-                MessageBox.Show("User not found.");
-            }
-        }
         
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -90,18 +138,31 @@ namespace DSA_mid_project.UI
                 MessageBox.Show("Please select a sorting category.");
                 return;
             }
-            
-            if(category == "Alphabetical Order")
+
+            if (category == "Alphabetical Order")
             {
-                dataGridView2.DataSource = LaunchPage.userCrud.GetFriendsListAlphabetical();
-                dataGridView2.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                friendsFlowPanel.Controls.Clear();
+                DataTable friends = LaunchPage.userCrud.GetFriendsListAlphabetical();
+                foreach (DataRow row in friends.Rows)
+                {
+                    CreateFriendPanel(row);
+                }
             }
 
             if (category == "Oldest to Newest")
             {
-                dataGridView2.DataSource = LaunchPage.userCrud.FriendsListOldest();
-                dataGridView2.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                friendsFlowPanel.Controls.Clear();
+                DataTable friends = LaunchPage.userCrud.FriendsListOldest();
+                foreach (DataRow row in friends.Rows)
+                {
+                    CreateFriendPanel(row);
+                }
             }
+        }
+
+        private void Freinds_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

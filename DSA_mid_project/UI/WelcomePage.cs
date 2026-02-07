@@ -15,6 +15,7 @@ namespace DSA_mid_project
         public WelcomePage( )
         {
             InitializeComponent();
+            this.DoubleBuffered = true;
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -38,6 +39,11 @@ namespace DSA_mid_project
             signup.Location = this.Location;
             this.Hide();
             signup.Show();
+        }
+
+        private void WelcomePage_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
